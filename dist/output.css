@@ -873,6 +873,10 @@ video {
   justify-content: space-between;
 }
 
+.justify-end{
+  justify-content: end;
+}
+
 .gap-4 {
   gap: 1rem;
 }

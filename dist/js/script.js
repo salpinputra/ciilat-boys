@@ -6,10 +6,10 @@ var app = document.getElementById('typewriter');
     });
   
     typewriter
-      .typeString('Informatics Engineering Student')
+      .typeString('Wilujeng sumping')
       .pauseFor(3500)
       .deleteAll()
-      .typeString('WEB DEVELOPER')
+      .typeString('Di website CIILAT BOYS')
       .pauseFor(3500)
       .start();
       
